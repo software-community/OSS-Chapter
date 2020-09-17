@@ -3,7 +3,7 @@
 
 Dr. S. R. S. Iyengar - sudarshan@iitrpr.ac.in
  
-Amit Kumar Verma -  2016csz0003@iitrpr.ac.in 
+Amit Arjun Verma -  2016csz0003@iitrpr.ac.in 
 
 Divyanshu Bains- 2017csb1074@iitrpr.ac.in
 
