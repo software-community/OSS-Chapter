@@ -1,5 +1,5 @@
 
-#Active Members
+# Initial Members
 
 Dr. S. R. S. Iyengar - sudarshan@iitrpr.ac.in
  
