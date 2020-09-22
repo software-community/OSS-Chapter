@@ -15,3 +15,6 @@
 ## Documenting your code
 1. [Sphinx Docs](https://www.sphinx-doc.org/en/master/)
 2. [Readthedocs Docs](https://docs.readthedocs.io/en/stable/)
+
+## Github Desktop
+1. [Installing and configuring GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop)
