@@ -8,4 +8,4 @@
 | [WikCER](https://github.com/descentis/WikECD) | A toolkit to compress and efficiently exract the Wikipedia edit history | A A Verma |
 | [WikiTalker](https://github.com/descentis/WikiTalker) | A library to parse and analyse the Wikipedia talk pages | A A Verma |
 | DisKnowl | A toolkit to extract and analyze the group discussion | A A Verma |
-| [OSS_website](https://github.com/yashaswi2000/oss_website) | Website for Open-source Community IIT-ROPAR | M Yashaswi, Ayush Agarwal |
+| [OSS_website](https://github.com/yashaswi2000/oss_website) | Website for Open-source Community IIT-ROPAR | M Yashaswi, Ayush Agrawal |
