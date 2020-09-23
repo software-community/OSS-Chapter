@@ -9,9 +9,13 @@
 
 ## Github for Beginners (Github Docs)
 1. [Getting Started](https://docs.github.com/en/github/getting-started-with-github)
-2. [Issues and PR's](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests)
-3. [How to create a pull request?](https://opensource.com/article/19/7/create-pull-request-github/)
-4. [Installing and configuring GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop)
+2. [GitHub Flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+3. [Syncing a Fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
+4. [Addressing Merge Conflicts](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/addressing-merge-conflicts)
+5. [Issues and PR's](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests)
+6. [How to create a pull request?](https://opensource.com/article/19/7/create-pull-request-github/)
+7. [Installing and configuring GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop)
+
 
 ## Documenting your code
 1. [Sphinx Docs](https://www.sphinx-doc.org/en/master/)
