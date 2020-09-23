@@ -15,3 +15,8 @@
 ## Documenting your code
 1. [Sphinx Docs](https://www.sphinx-doc.org/en/master/)
 2. [Readthedocs Docs](https://docs.readthedocs.io/en/stable/)
+
+## Github using Terminal
+1. [Getting Started: GitLab_Docs](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html/)
+2. [How to create a pull request?](https://opensource.com/article/19/7/create-pull-request-github/)
+
