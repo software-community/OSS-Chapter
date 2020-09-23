@@ -2,7 +2,7 @@
 
 ## Articles for Absolute Beginners 
 1. [Understanding Git from Zero](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
-2. [Git and Github for Absolute Beginners](https://github.com/pawarhrishi21/OSS-Chapter/blob/master/Resources.md)
+2. [Git and Github for Absolute Beginners](https://www.analyticsvidhya.com/blog/2020/05/git-github-essential-guide-beginners/)
 
 ## Github for Beginners (Github Docs)
 1. [Getting Started](https://docs.github.com/en/github/getting-started-with-github)
