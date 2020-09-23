@@ -2,8 +2,10 @@
 
 ## Articles for Absolute Beginners 
 1. [Understanding Git from Zero](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
-2. [OpenSource Guide](http://opensource.guide/)
-3. [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
+2. [Git and Github for Absolute Beginners](https://www.analyticsvidhya.com/blog/2020/05/git-github-essential-guide-beginners/)
+3. [OpenSource Guide](http://opensource.guide/)
+4. [How to get started with Open Source](https://www.hackerearth.com/getstarted-opensource/)
+
 
 ## Github for Beginners (Github Docs)
 1. [Getting Started](https://docs.github.com/en/github/getting-started-with-github)
