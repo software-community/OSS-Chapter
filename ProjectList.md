@@ -15,7 +15,7 @@
 | -------------| ----------- | ------- |
 | [OSS_website](https://github.com/yashaswi2000/oss_website) | Website for Open-source Community IIT-Ropar | M Yashaswi, Ayush Agrawal |
 
-## A list of projects involving Sata Analysis
+## A list of projects involving Data Analysis
 | Project Name | Description | Authors |
 | -------------| ----------- | ------- |
 | [Football analysis] | Analysing football data available online and making blogs | Hersh Dhillon |
